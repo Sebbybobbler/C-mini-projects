@@ -1,5 +1,5 @@
 #include <iostream>
-#include "ufo_functions.hpp"
+#include "UFO-game.hpp"
 
 int main() {
 //Greet the player.
