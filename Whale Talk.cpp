@@ -8,7 +8,7 @@ std::string input= "Enter your text here. \n"; \\User enters a string here, any 
 
 std::vector <char> vowels {'a','e','i','o','u'}; \\Store vowels here.
 
-std::vector <char> result{}; \initialise empty vector of characters
+std::vector <char> result{}; \\initialise empty vector of characters
 
 for(int i=0; i<input.size(); i++){   \\for Loop which runs through each of the characters of the user's input string.
   
