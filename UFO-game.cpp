@@ -13,7 +13,7 @@ int main() {
 greet();
 
 //answer to game. player trying to guess.
-std::string codeword="codecademy \n";
+std::string codeword="Hangman \n";
 
 // the players answer, initialised as below.
 std::string answer="__________ \n";
